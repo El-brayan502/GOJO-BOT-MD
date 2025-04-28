@@ -37,7 +37,7 @@ git clone https://github.com/El-brayan502/GOJO-BOT-MD.git
 ### Prasyarat 1. Saat Anda mendapatkan code sumber ini, pastikan untuk menginstal semua modul yang diperlukan dengan menjalankan perintah ini di terminal atau símbolo del sistema:
  
 ```bash
-cd /halaman/mengarah/ke/Experimental-Bell
+cd /halaman/mengarah/ke/GOJO-BOT-MD
 ```
 ```bash
 npm install
