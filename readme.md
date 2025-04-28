@@ -34,10 +34,8 @@ git clone https://github.com/Rifza123/Experimental-Bell.git
 
 ## Cara Pasang
 
-### Prasyarat
-
-1. Saat Anda mendapatkan kode sumber ini, pastikan untuk menginstal semua modul yang diperlukan dengan menjalankan perintah ini di terminal atau command prompt:
-
+### Prasyarat 1. Saat Anda mendapatkan code sumber ini, pastikan untuk menginstal semua modul yang diperlukan dengan menjalankan perintah ini di terminal atau símbolo del sistema:
+ 
 ```bash
 cd /halaman/mengarah/ke/Experimental-Bell
 ```
